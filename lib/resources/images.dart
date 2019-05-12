@@ -1,0 +1,1 @@
+final String PERSON_IMAGE = 'assets/images/person.png';
