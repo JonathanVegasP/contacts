@@ -1,3 +1,3 @@
-# contacts
+# Contacts
 
-Contacts
+Contacts App
